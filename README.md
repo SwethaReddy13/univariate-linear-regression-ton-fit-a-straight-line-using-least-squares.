@@ -45,7 +45,7 @@ plt.show()
 
 
 ## Output:
-![best fit line](project1.png)
+![Picture1](https://user-images.githubusercontent.com/129032832/227850733-12569c60-4b8b-4316-971c-e7145082ad2b.jpg)
 
 
 ## Result:
